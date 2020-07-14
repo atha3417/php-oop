@@ -1,0 +1,13 @@
+{
+    "name": "atha/php-oop",
+    "description": "Just a simple php code",
+    "keywords": ["php", "mvc", "oop"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
